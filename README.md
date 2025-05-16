@@ -6,12 +6,12 @@ Each challenge demonstrates a key algorithm or operation using these structures.
 
 
 ## 📌 Challenges Included
-   🔹challenge1.dart : Reverses a list using a stack 
-   🔹challenge2.dart : Checks if parentheses are balanced  
-   🔹challenge3.dart : Recursively prints a linked list in reverse  
-   🔹challenge4.dart : Finds the middle node in a linked list  
-   🔹challenge5.dart : Reverses a linked list in-place 
-   🔹challenge6.dart : Removes all occurrences of a value from a linked list 
+   🔹challenge1.dart : Reverses a list using a stack .
+   🔹challenge2.dart : Checks if parentheses are balanced .  
+   🔹challenge3.dart : Recursively prints a linked list in reverse . 
+   🔹challenge4.dart : Finds the middle node in a linked list .
+   🔹challenge5.dart : Reverses a linked list in-place .
+   🔹challenge6.dart : Removes all occurrences of a value from a linked list .
 
 ## 🧱 Core Data Structures
 
