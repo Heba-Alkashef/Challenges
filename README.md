@@ -13,8 +13,8 @@ Each challenge demonstrates a key algorithm or operation using these structures.
    
    🔹challenge3.dart : Recursively prints a linked list in reverse .
    
-   🔹challenge4.dart : Finds the middle node in a linked list 
-   .
+   🔹challenge4.dart : Finds the middle node in a linked list .
+   
    🔹challenge5.dart : Reverses a linked list in-place .
    
    🔹challenge6.dart : Removes all occurrences of a value from a linked list .
