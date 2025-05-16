@@ -35,15 +35,6 @@ Each challenge demonstrates a key algorithm or operation using these structures.
   - Compatible with reverse print, middle node detection, and element removal
 
 ---
-## 🎮 Features
-
-- Console-based gameplay
-- Two-player turn system
-- Input validation (only allows valid and unoccupied positions)
-- Win and draw detection
-- Option to replay the game
-- Players can choose to play as X or O at the beginning
-
 ## 🛠 Requirements
 
 - [Dart SDK](https://dart.dev/get-dart) installed on your system
@@ -52,14 +43,12 @@ To check installation:
 bash
 dart --version
 
-
 ## ▶ How to Run
 
 1. *Clone this repository*:
    bash
 git clone https://github.com/Heba-Alkashef/Challenges.git
    
-
 2. *Navigate to the project directory*:
    bash
    cd Challenges
@@ -87,13 +76,21 @@ list.removeAll(5); // Removes all nodes with value 5
 
 challenges/
 ├── challenge1.dart    # Stack-based list reversal
+
 ├── challenge2.dart    # Balanced parentheses checker
+
 ├── challenge3.dart    # Reverse print linked list
+
 ├── challenge4.dart    # Find middle node
+
 ├── challenge5.dart    # Reverse linked list
+
 ├── challenge6.dart    # Remove value from linked list
+
 ├── stack.dart         # Stack implementation
+
 ├── linkedList.dart    # Linked list implementation
+
 └── README.md          # Project documentation
 
 ## 👤 Author
