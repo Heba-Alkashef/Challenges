@@ -6,6 +6,7 @@ Each challenge demonstrates a key algorithm or operation using these structures.
 
 
 ## 📌 Challenges Included
+
    🔹challenge1.dart : Reverses a list using a stack .
    
    🔹challenge2.dart : Checks if parentheses are balanced .  
